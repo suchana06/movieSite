@@ -7,7 +7,7 @@
     "start": "node server/index.js"
   },
   "keywords": [],
-  "author": "Ronit Singh",
+  "author": "Suchana Singh",
   "license": "ISC",
   "dependencies": {
     "@jridgewell/sourcemap-codec": "^1.4.15",
